@@ -1,7 +1,5 @@
 # **Proyecto**: Análisis de mercado inmobiliario
 
-¡Bienvenido/a al primer proyecto de la carrera de Data Science de Acamica!
-
 El objetivo de este proyecto es reproducir los pasos que haría un/a Data Scientist cuando se enfrenta a una problemática real. Por eso, consta de tres secciones:
 
 - En la **Parte 1**, te presentamos la problemática sobre la cual vas a trabajar. En esta sección deberás decidir qué datos te ayudarán a trabajar en este problema y dónde puedes conseguirlos.
