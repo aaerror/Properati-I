@@ -6,7 +6,7 @@ El objetivo de este proyecto es reproducir los pasos que haría un/a Data Scient
 - En la **Parte 2** te proveemos de un dataset para abordar la problemática planteada. Deberás realizar un Análisis Exploratorio de Datos sobre este dataset.
 - En la **Parte 3**, deberás utilizar herramientas de Machine Learning para predecir la variable de interés.
 
-En este proyecto vas a trabajar con un dataset de propiedades en venta publicado en el portal [Properati](http://localhost:8888/notebooks/Proyectos/Proyecto I/www.properati.com.ar).
+En este proyecto vas a trabajar con un dataset de propiedades en venta publicado en el portal [Properati](https://www.properati.com.ar).
 
 ## **Parte 1**
 ### Problema
